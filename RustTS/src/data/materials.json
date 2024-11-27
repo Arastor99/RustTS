@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Paja (Twig)",
+		"maxHealth": 10,
+		"decayTime": 1,
+		"image": "/static/resources/twig-wall.jpg"
+	},
+	{
+		"name": "Madera (Wood)",
+		"maxHealth": 250,
+		"decayTime": 3,
+		"image": "/static/resources/dw.png"
+	},
+	{
+		"name": "Piedra (Stone)",
+		"maxHealth": 500,
+		"decayTime": 5,
+		"image": "/static/resources/stone-wall.png"
+	},
+	{
+		"name": "Metal (Sheet Metal)",
+		"maxHealth": 1000,
+		"decayTime": 8,
+		"image": "/static/resources/metal-wall.png"
+	},
+	{
+		"name": "HQ Metal",
+		"maxHealth": 2000,
+		"decayTime": 12,
+		"image": "/static/resources/hq-wall.png"
+	},
+	{
+		"name": "Puerta de Madera",
+		"maxHealth": 200,
+		"decayTime": 3,
+		"image": "/static/resources/dw.png"
+	},
+	{
+		"name": "Puerta de Metal",
+		"maxHealth": 250,
+		"decayTime": 8,
+		"image": "/static/resources/dm.png"
+	},
+	{
+		"name": "Puerta de Garaje",
+		"maxHealth": 600,
+		"decayTime": 8,
+		"image": "/static/resources/dg.png"
+	},
+	{
+		"name": "Puerta HQ (Armored)",
+		"maxHealth": 800,
+		"decayTime": 12,
+		"image": "/static/resources/dq.png"
+	}
+]
